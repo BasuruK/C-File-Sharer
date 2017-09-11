@@ -1,6 +1,5 @@
 /**
  * Basuru Kusal
- * 18874536
  * Server.c => acts as a server for all the clients
  */
 
